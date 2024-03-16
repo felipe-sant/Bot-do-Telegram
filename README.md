@@ -11,8 +11,6 @@ Este projeto é parte de uma atividade prática da **Interação Humano Computad
 
 ## 🎯 Objetivos:
 
-- **Implementar operações CRUD**: Desenvolver funcionalidades que permitam ao bot realizar operações básicas de criação, leitura, atualização e exclusão de dados, integrando-se ao MongoDB para armazenamento e recuperação de informações.
-
 - **Responder a comandos específicos**: Configurar o bot para reconhecer e responder a uma variedade de comandos específicos enviados pelos usuários, como consultas de informações, solicitações de ajuda e interações diversas.
 
 - **Integração com APIs externas**: Incorporar a capacidade do bot de interagir com APIs externas, permitindo, por exemplo, buscar informações atualizadas, realizar consultas em serviços web ou oferecer funcionalidades adicionais baseadas em serviços externos.
