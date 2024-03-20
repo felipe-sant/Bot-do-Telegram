@@ -35,7 +35,7 @@ Para executar este projeto, você precisará de:
 
         pip install transformers
 
-3. Edite o [Arquivo de Configuração](config.py) com o nome e o token do seu Bot.
+3. Edite o [Arquivo de Configuração](config.py) com o token do seu Bot.
 
 ### Como Executar:
 
