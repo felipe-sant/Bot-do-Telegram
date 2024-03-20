@@ -1,3 +1,3 @@
 # Config file for the bot
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "7156722595:AAGONiWHDhni8-ywCLgVtxay2Q9XcAPOh5Y"
