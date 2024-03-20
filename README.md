@@ -7,7 +7,7 @@
 
 </div>
 
-Este projeto é parte de uma atividade prática da **Interação Humano Computador**, com o objetivo de explorar e aprimorar habilidades no desenvolvimento de bots para o Telegram utilizando Python. O projeto visa a implementação de um bot funcional que possa interagir e guardar informações e organizar utilizando o transform, tudo isso dentro do ambiente do Telegram. Ao aplicar os conceitos aprendidos, integração com APIs externas e tratamento de eventos, este projeto proporciona uma oportunidade valiosa para a prática e aprofundamento dos conhecimentos adquiridos na disciplina.
+Este projeto é parte de uma atividade prática da **Interação Humano Computador**, com o objetivo de explorar e aprimorar habilidades no desenvolvimento de bots para o Telegram utilizando Python. O projeto visa a implementação de um bot funcional que possa interagir e guardar informações e organizar utilizando o transform com base no assunto e passos que você ofereceu, tudo isso dentro do ambiente do Telegram. Ao aplicar os conceitos aprendidos, integração com APIs externas e tratamento de eventos, este projeto proporciona uma oportunidade valiosa para a prática e aprofundamento dos conhecimentos adquiridos na disciplina.
 
 ## 🎯 Objetivos:
 
@@ -27,12 +27,22 @@ Para executar este projeto, você precisará de:
 
 ### Configuração do Ambiente
 
-1. Edite o [Arquivo de Configuração](config.py) com o nome e o token do seu Bot.
+1. Baixe o TelegramBotAPI:
+
+        pip install pyTelegramBotAPI
+
+2. Baixe o Transformers:
+
+        pip install transformers
+
+3. Edite o [Arquivo de Configuração](config.py) com o nome e o token do seu Bot.
 
 ### Como Executar:
 
 1. Navegue até a pasta do projeto clonado e execute o script principal utilizando o Python:
 
-        python main.py
+        python .\src\app.py
 
-2. Para sair da aplicação aperte CTRL + C.
+2. Abra o Chat com o seu bot, https://t.me/(nome_seu_bot)
+
+3. Para sair da aplicação aperte CTRL + C.
